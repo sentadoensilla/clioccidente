@@ -1,4 +1,0 @@
-<?php
-// VAMOS A HACER VARIAS FUNCIONES ACA
-
-?>

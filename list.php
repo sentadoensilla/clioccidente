@@ -1,3 +1,0 @@
-<?php
-// ESTA ES UNA LISTA DE DATOS
-?>
